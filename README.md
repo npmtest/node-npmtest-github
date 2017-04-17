@@ -1,7 +1,7 @@
 # test coverage for  [github (v9.2.0)](https://github.com/mikedeboer/node-github)  [![npm package](https://img.shields.io/npm/v/npmtest-github.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-github) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-github.svg)](https://travis-ci.org/npmtest/node-npmtest-github)
 #### NodeJS wrapper for the GitHub API
 
-[![NPM](https://nodei.co/npm/github.png?downloads=true)](https://www.npmjs.com/package/github)
+[![NPM](https://nodei.co/npm/github.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/github)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-github/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-github/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-github/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-github/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-github/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-github/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-github/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-github/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-github/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-github/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-github%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-github/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-github/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-github/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-github/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-github%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-github/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-github/build/test-report.html](https://npmtest.github.io/node-npmtest-github/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-github/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-github/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-github/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-github/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-github/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-github/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-github/build/screenCapture.npmPackageListing.svg)
 
@@ -35,24 +41,20 @@
         }
     },
     "author": {
-        "name": "Mike de Boer",
-        "email": "info@mikedeboer.nl"
+        "name": "Mike de Boer"
     },
     "bugs": {
         "url": "https://github.com/mikedeboer/node-github/issues"
     },
     "contributors": [
         {
-            "name": "Mike de Boer",
-            "email": "info@mikedeboer.nl"
+            "name": "Mike de Boer"
         },
         {
-            "name": "Fabian Jakobs",
-            "email": "fabian@c9.io"
+            "name": "Fabian Jakobs"
         },
         {
-            "name": "Joe Gallo",
-            "email": "joe@brassafrax.com"
+            "name": "Joe Gallo"
         }
     ],
     "dependencies": {
@@ -86,17 +88,14 @@
     "main": "lib",
     "maintainers": [
         {
-            "name": "kaizensoze",
-            "email": "joe@brassafrax.com"
+            "name": "kaizensoze"
         },
         {
-            "name": "mikedeboer",
-            "email": "info@mikedeboer.nl"
+            "name": "mikedeboer"
         }
     ],
     "name": "github",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/mikedeboer/node-github.git"
