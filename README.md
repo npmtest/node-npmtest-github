@@ -1,4 +1,7 @@
-# test coverage for  [github (v9.2.0)](https://github.com/mikedeboer/node-github)  [![npm package](https://img.shields.io/npm/v/npmtest-github.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-github) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-github.svg)](https://travis-ci.org/npmtest/node-npmtest-github)
+# npmtest-github
+
+#### test coverage for  [github (v9.2.0)](https://github.com/mikedeboer/node-github)  [![npm package](https://img.shields.io/npm/v/npmtest-github.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-github) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-github.svg)](https://travis-ci.org/npmtest/node-npmtest-github)
+
 #### NodeJS wrapper for the GitHub API
 
 [![NPM](https://nodei.co/npm/github.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/github)
